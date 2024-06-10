@@ -4,7 +4,7 @@ import { defineConfig } from 'cypress';
 
 export default defineConfig({
   e2e: {
-    baseUrl: 'https://kuchniakwasiora.com/',
+    baseUrl: 'https://example-ecommerce-website.com/',
   },
   env: {
     TEST_USER_EMAIL: '',
